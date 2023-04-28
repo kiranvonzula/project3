@@ -1,0 +1,22 @@
+body
+{
+   background:grey
+}
+.container.jumbotron{
+   margin-top:200px;
+   background:blue;
+   color:white;
+   font-family:'Merriweather';
+}
+thead,th{
+    border:2px solid black;
+    font-size:30px;
+    color:white;
+    background:grey;
+}
+h1{
+   text-align:center;
+}
+#f{
+   border:5px solid black
+}
